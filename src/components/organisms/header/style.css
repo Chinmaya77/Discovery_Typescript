@@ -1,0 +1,14 @@
+.header-container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 20px;
+  height: 70px;
+  display: grid;
+  grid-template-columns: 30px 260px 600px 540px;
+  grid-gap: 10px;
+  align-items: center;
+}
+
+.logo-img {
+  margin-right: 125px;
+}

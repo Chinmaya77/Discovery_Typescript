@@ -1,0 +1,9 @@
+.category-container {
+  padding-top: 35px;
+  padding-left: 120px;
+  display: grid;
+  grid-template-columns: 13% 13% 13% 13% 13% 13%;
+  /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
+
+  gap: 30px;
+}

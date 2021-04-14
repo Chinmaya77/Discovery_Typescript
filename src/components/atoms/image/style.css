@@ -1,0 +1,52 @@
+.border-rad-none {
+  border-radius: 0px;
+}
+
+.border-rad-10 {
+  border-radius: 10px;
+}
+
+.border-rad-20 {
+  border-radius: 20px;
+}
+
+.imgsearch {
+  position: absolute;
+  top: 125px;
+  left: 125px;
+}
+
+.content-bar {
+  margin-right: 25px;
+}
+.logo-bar {
+  margin-right: 40px;
+}
+
+.img-prev {
+  filter: brightness(0) invert(1);
+}
+
+.corousel-Img {
+  border-radius: 10px;
+}
+
+.category-img {
+  border-radius: 10px;
+}
+
+.img-play {
+}
+
+@media screen and (max-width: 1300px) {
+  .img-play {
+    height: 57px;
+    width: 78px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .img-play {
+    height: 47px;
+    width: 68px;
+  }
+}

@@ -1,0 +1,10 @@
+.imgsearch {
+  position: absolute;
+  top: 10px;
+  left: 340px;
+}
+
+.searchbar-container {
+  display: flex;
+  position: relative;
+}

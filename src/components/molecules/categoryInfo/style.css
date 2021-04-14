@@ -1,0 +1,15 @@
+.category-info {
+  position: relative;
+  display: inline-block;
+}
+
+.category-text {
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 15%;
+}
+
+.category-info:hover .category-text {
+  bottom: 35%;
+}
